@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="35" viewBox="0 0 37 35">
+    <g fill="none" fill-rule="evenodd" transform="translate(2 2)">
+        <path stroke="#34384B" stroke-width="3" d="M29.979 15.332a14.96 14.96 0 0 0-4.387-10.606c-5.85-5.859-15.334-5.859-21.183 0A14.96 14.96 0 0 0 .021 15.332 14.96 14.96 0 0 0 4.41 25.938a14.943 14.943 0 0 0 12.976 4.204"/>
+        <text fill="#34384B" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400">
+            <tspan x="8" y="24">P</tspan>
+        </text>
+        <rect width="20" height="1.5" x="4" y="10" fill="#34384B" rx=".75"/>
+        <rect width="20" height="1.5" x="5" y="13" fill="#34384B" rx=".75"/>
+        <g transform="translate(21 19)">
+            <rect width="1" height="6" x="6" y="2" fill="#343749" rx=".5"/>
+            <rect width="1" height="5" x="7.915" y="6.183" fill="#343749" rx=".5" transform="rotate(-60 8.415 8.683)"/>
+            <path stroke="#34384B" d="M6.5 0a6.5 6.5 0 1 0 0 13 6.5 6.5 0 1 0 0-13"/>
+        </g>
+    </g>
+</svg>

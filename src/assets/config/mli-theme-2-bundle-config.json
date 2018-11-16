@@ -1,0 +1,5 @@
+{
+    "entry": "./src/themes/v2/mli-theme-2.scss",
+    "dest": "./dist/_mli-themes-v2.scss",
+    "includePaths": ["./src/themes/base/**"]
+}

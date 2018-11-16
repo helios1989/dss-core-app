@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Agreements" transform="translate(-906.000000, -34.000000)" fill="#424559">
+            <g id="Right-Menu" transform="translate(760.000000, 24.000000)">
+                <g id="Save" transform="translate(128.000000, 0.000000)">
+                    <g id="Share-icon" transform="translate(13.000000, 2.000000)">
+                        <g id="Group-40" transform="translate(17.500000, 15.000000) rotate(-225.000000) translate(-17.500000, -15.000000) translate(12.000000, 9.000000)">
+                            <rect id="Rectangle-9" transform="translate(5.078906, 6.612525) rotate(-45.000000) translate(-5.078906, -6.612525) " x="-0.987760463" y="5.60610761" width="12.1333333" height="2.01283525"></rect>
+                            <rect id="Rectangle-9-Copy" x="2.63786805" y="0.933333333" width="7.75185185" height="2.01283525"></rect>
+                            <rect id="Rectangle-9-Copy-2" transform="translate(9.378609, 4.959004) scale(1, -1) rotate(90.000000) translate(-9.378609, -4.959004) " x="5.33416434" y="3.95258621" width="8.08888889" height="2.01283525"></rect>
+                        </g>
+                        <path d="M17,29 L17,27 C22.5228475,27 27,22.5228475 27,17 C27,13.7186247 25.4092928,10.7059785 22.7833801,8.84094406 C21.1060099,7.6496047 19.1031139,7 17,7 C14.8563823,7 12.8171807,7.67497848 11.121556,8.90930049 C8.55056513,10.7808411 7,13.7599579 7,17 L5,17 C5,13.1134978 6.86181553,9.53637235 9.94450144,7.29234575 C11.9792965,5.81112637 14.4298192,5 17,5 C19.5215651,5 21.9284778,5.78064055 23.9414866,7.21036464 C27.090059,9.44661407 29,13.0638584 29,17 C29,23.627417 23.627417,29 17,29 Z" id="Oval-5" fill-rule="nonzero" transform="translate(17.000000, 17.000000) rotate(-225.000000) translate(-17.000000, -17.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

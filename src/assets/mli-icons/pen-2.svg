@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#34384B" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" transform="translate(-191 -140)">
+            <tspan x="20" y="158">Sophie’s Educational Plan</tspan>
+        </text>
+        <g stroke="#34384B" stroke-width="2" opacity=".5">
+            <path d="M12.121 4.636L3.18 13.578l-.51 4.799 4.749-.552 8.946-8.946-4.243-4.243z"/>
+            <path d="M12.121 4.636l4.243 4.243 1.414-1.415a3 3 0 1 0-4.242-4.242L12.12 4.636z"/>
+        </g>
+    </g>
+</svg>
