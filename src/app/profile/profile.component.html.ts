@@ -1,3 +1,3 @@
-export default `<p>
-  profile works!
-</p>`
+export default `
+  profile works xx1!
+  <div appComponentLoader></div>`
