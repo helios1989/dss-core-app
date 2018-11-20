@@ -4,12 +4,22 @@ import { ProfileComponent } from './profile.component';
 import { ProfileRoutingModule } from './profile.route';
 import { ViewProfileComponent } from './view-profile/view-profile/view-profilee.component';
 import { ComponentLoaderDirective } from '../core/component-loader.directive';
+import { EditProfileComponent } from './view-profile/edit-profile/edit-profile.component';
+
 @NgModule({
   imports: [
     CommonModule,
     ProfileRoutingModule
   ],
-  declarations: [ ProfileComponent, ViewProfileComponent, ComponentLoaderDirective ],
-  exports: [ ProfileComponent, ViewProfileComponent, ComponentLoaderDirective ]
+  declarations: [ 
+    ProfileComponent, 
+    ViewProfileComponent, 
+    ComponentLoaderDirective,
+    EditProfileComponent ],
+  exports: [ 
+    ProfileComponent, 
+    ViewProfileComponent, 
+    ComponentLoaderDirective,
+    EditProfileComponent ]
 })
 export class ProfileModule { }

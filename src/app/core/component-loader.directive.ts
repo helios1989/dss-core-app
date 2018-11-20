@@ -1,4 +1,4 @@
-import { Directive, ViewContainerRef, Input, ComponentFactoryResolver, OnInit } from '@angular/core';
+import { Directive, ViewContainerRef, Input, ComponentFactoryResolver, ComponentFactory, ComponentDecorator, OnInit } from '@angular/core';
 import { ConfigServices } from '../services/config-services';
 
 @Directive({
@@ -12,6 +12,9 @@ export class ComponentLoaderDirective {
   
     ngOnInit() {
       console.log(this.viewContainerRef, '>>view container<<');
+      // _data.componentView.context.constructor.name
+      let childView = this.viewContainerRef['_view']['nodes'];
+      console.log(childView, '>>childView<<');
       let constructorComponent = this.viewContainerRef['_view']['component']['constructor']['name'];
       if (this._hasContructorComponent(constructorComponent)) {
         let componentFactory = this.componentFactoryResolver.resolveComponentFactory(this.config[constructorComponent]);
