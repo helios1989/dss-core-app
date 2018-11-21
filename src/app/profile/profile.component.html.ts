@@ -1,5 +1,6 @@
 export default `
-<div appComponentLoader>
-  <app-core-view-profile ViewProfileComponent> </app-core-view-profile>
-  <app-core-edit-profile></app-core-edit-profile>
+<h1>TEST</h1>
+<div appComponentLoader [componentLoader]="viewProfileComponent">
+</div>
+<div appComponentLoader [componentLoader]="editProfileComponent">
 </div>`

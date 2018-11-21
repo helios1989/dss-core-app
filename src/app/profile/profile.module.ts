@@ -20,6 +20,7 @@ import { EditProfileComponent } from './view-profile/edit-profile/edit-profile.c
     ProfileComponent, 
     ViewProfileComponent, 
     ComponentLoaderDirective,
-    EditProfileComponent ]
+    EditProfileComponent ],
+    entryComponents: [ViewProfileComponent, EditProfileComponent, ProfileComponent ]
 })
 export class ProfileModule { }
