@@ -15,11 +15,18 @@ import { EditProfileComponent } from './view-profile/edit-profile/edit-profile.c
     ProfileComponent, 
     ViewProfileComponent, 
     ComponentLoaderDirective,
-    EditProfileComponent ],
+    EditProfileComponent 
+  ],
   exports: [ 
     ProfileComponent, 
     ViewProfileComponent, 
     ComponentLoaderDirective,
-    EditProfileComponent ]
+    EditProfileComponent 
+  ],
+  entryComponents: [
+    ProfileComponent, 
+    ViewProfileComponent,
+    EditProfileComponent 
+  ]
 })
 export class ProfileModule { }
